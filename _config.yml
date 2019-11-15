@@ -1,0 +1,11 @@
+# basic options
+title: My title
+author: Leanne Esp
+email: leanne_lim@esp.com
+description: desciption of the website
+twitter_username: twitteruser
+github_username : jerkyll
+
+# Build settings
+markdown: kramdown
+theme: minima
